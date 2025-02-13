@@ -7,7 +7,7 @@ def log(message):
 
 def generate_json():
     try:
-        base_url = "https://raw.githubusercontent.com/mrcutex/Iconvis/main"
+        base_url = "https://raw.githubusercontent.com/mrcutex/iconvis/main"
         icons_dir = "icons"
         bold_dir = os.path.join(icons_dir, "bold")  
         all_items = []
