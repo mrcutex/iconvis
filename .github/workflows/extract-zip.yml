@@ -1,0 +1,62 @@
+name: Extract ZIP
+
+on: 
+  push:
+    paths:
+      - '**.zip'  
+
+permissions:
+  contents: write  
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}  
+
+      - name: Create folders
+        run: mkdir -p icons/{bold,outline}
+
+      - name: Find and Extract ZIP Files
+        run: |
+          for zipfile in *.zip; do
+            case "$zipfile" in
+              "filled-icons.zip") target_dir="icons/bold" ;;
+              "outline-icons.zip") target_dir="icons/outline" ;;
+              *) echo "Skipping unknown ZIP: $zipfile"; continue ;;
+            esac
+
+            echo "Extracting $zipfile to $target_dir..."
+            unzip -o -q "$zipfile" -d "$target_dir"
+            rm "$zipfile"
+          done
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add icons/
+          git diff --cached --quiet || git commit -m "Auto-extracted ZIP files"
+          git push origin HEAD:${{ github.ref_name }}
+
+      - name: Trigger Generate Icon API Workflow
+        run: |
+          gh workflow run "generate-api.yml" -r main
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}  
+
+      - name: Delete Unwanted Files
+        run: |
+          find icons -type f -name "*.svg" -delete
+          find . -maxdepth 1 -type f -name "*.png" -o -name "*.zip" -delete
+
+      - name: Commit Changes
+        run: |
+         git config --global user.name "github-actions"
+         git config --global user.email "actions@github.com"
+         git add .
+         git diff --cached --quiet || git commit -m "Deleted unnecessary .svg, .png, and .zip files"
+         git push origin HEAD:${{ github.ref_name }}
