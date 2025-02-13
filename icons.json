@@ -1,5 +1,4725 @@
 [
   {
+    "type": "bold",
+    "name": "square_letter_a",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-a.svg"
+  },
+  {
+    "type": "bold",
+    "name": "face_mask",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/face-mask.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_number_9",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-number-9.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mood_crazy_happy",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mood-crazy-happy.svg"
+  },
+  {
+    "type": "bold",
+    "name": "transform",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/transform.svg"
+  },
+  {
+    "type": "bold",
+    "name": "box_align_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/box-align-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bubble",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bubble.svg"
+  },
+  {
+    "type": "bold",
+    "name": "escalator_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/escalator-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "steering_wheel",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/steering-wheel.svg"
+  },
+  {
+    "type": "bold",
+    "name": "eye_table",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/eye-table.svg"
+  },
+  {
+    "type": "bold",
+    "name": "panorama_horizontal",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/panorama-horizontal.svg"
+  },
+  {
+    "type": "bold",
+    "name": "pennant",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/pennant.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_autofit_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-autofit-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "sitemap",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/sitemap.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chess_knight",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chess-knight.svg"
+  },
+  {
+    "type": "bold",
+    "name": "star",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/star.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bubble_text",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bubble-text.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_number_5",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-number-5.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_invoice",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-invoice.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_t",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-t.svg"
+  },
+  {
+    "type": "bold",
+    "name": "live_photo",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/live-photo.svg"
+  },
+  {
+    "type": "bold",
+    "name": "battery_vertical",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/battery-vertical.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_c",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-c.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_autofit_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-autofit-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "align_box_bottom_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/align-box-bottom-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "xbox_x",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/xbox-x.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mood_empty",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mood-empty.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_number_5",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-number-5.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_github",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-github.svg"
+  },
+  {
+    "type": "bold",
+    "name": "box_align_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/box-align-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "play_card_4",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/play-card-4.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clock",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clock.svg"
+  },
+  {
+    "type": "bold",
+    "name": "crop_7_5",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/crop-7-5.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_number_1",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-number-1.svg"
+  },
+  {
+    "type": "bold",
+    "name": "device_gamepad_3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/device-gamepad-3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_chevrons_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-chevrons-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "egg_cracked",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/egg-cracked.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_list",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-list.svg"
+  },
+  {
+    "type": "bold",
+    "name": "pizza",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/pizza.svg"
+  },
+  {
+    "type": "bold",
+    "name": "box_align_bottom_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/box-align-bottom-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mail_opened",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mail-opened.svg"
+  },
+  {
+    "type": "bold",
+    "name": "device_tv",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/device-tv.svg"
+  },
+  {
+    "type": "bold",
+    "name": "player_skip_back",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/player-skip-back.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_snapchat",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-snapchat.svg"
+  },
+  {
+    "type": "bold",
+    "name": "folder",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/folder.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_chevrons_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-chevrons-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_percent",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-percent.svg"
+  },
+  {
+    "type": "bold",
+    "name": "car_4wd",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/car-4wd.svg"
+  },
+  {
+    "type": "bold",
+    "name": "alien",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/alien.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_g",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-g.svg"
+  },
+  {
+    "type": "bold",
+    "name": "play_card_8",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/play-card-8.svg"
+  },
+  {
+    "type": "bold",
+    "name": "stack_3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/stack-3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_vercel",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-vercel.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_arrow_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-arrow-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chart_candle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chart-candle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "settings",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/settings.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_dashboard",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-dashboard.svg"
+  },
+  {
+    "type": "bold",
+    "name": "boom",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/boom.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_autofit_content",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-autofit-content.svg"
+  },
+  {
+    "type": "bold",
+    "name": "exclamation_circle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/exclamation-circle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "yin_yang",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/yin-yang.svg"
+  },
+  {
+    "type": "bold",
+    "name": "aspect_ratio",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/aspect-ratio.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_distribute_horizontal",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-distribute-horizontal.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bow",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bow.svg"
+  },
+  {
+    "type": "bold",
+    "name": "copy_plus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/copy-plus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_badge_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-badge-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "aerial_lift",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/aerial-lift.svg"
+  },
+  {
+    "type": "bold",
+    "name": "pentagon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/pentagon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_bottombar_expand",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-bottombar-expand.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_plus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-plus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bug",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bug.svg"
+  },
+  {
+    "type": "bold",
+    "name": "helicopter_landing",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/helicopter-landing.svg"
+  },
+  {
+    "type": "bold",
+    "name": "sunrise",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/sunrise.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_dribbble",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-dribbble.svg"
+  },
+  {
+    "type": "bold",
+    "name": "man",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/man.svg"
+  },
+  {
+    "type": "bold",
+    "name": "radar",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/radar.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mood_happy",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mood-happy.svg"
+  },
+  {
+    "type": "bold",
+    "name": "drop_circle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/drop-circle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bread",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bread.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brightness",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brightness.svg"
+  },
+  {
+    "type": "bold",
+    "name": "help_square_rounded",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/help-square-rounded.svg"
+  },
+  {
+    "type": "bold",
+    "name": "baby_carriage",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/baby-carriage.svg"
+  },
+  {
+    "type": "bold",
+    "name": "manual_gearbox",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/manual-gearbox.svg"
+  },
+  {
+    "type": "bold",
+    "name": "zoom_out",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/zoom-out.svg"
+  },
+  {
+    "type": "bold",
+    "name": "crop_5_4",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/crop-5-4.svg"
+  },
+  {
+    "type": "bold",
+    "name": "direction_arrows",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/direction-arrows.svg"
+  },
+  {
+    "type": "bold",
+    "name": "keyframes",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/keyframes.svg"
+  },
+  {
+    "type": "bold",
+    "name": "align_box_left_middle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/align-box-left-middle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "alert_hexagon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/alert-hexagon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_sidebar_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-sidebar-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "meteor",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/meteor.svg"
+  },
+  {
+    "type": "bold",
+    "name": "balloon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/balloon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "lemon_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/lemon-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "alarm_snooze",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/alarm-snooze.svg"
+  },
+  {
+    "type": "bold",
+    "name": "play_card_7",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/play-card-7.svg"
+  },
+  {
+    "type": "bold",
+    "name": "star_half",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/star-half.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_f3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-f3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "tag",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/tag.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_number_1",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-number-1.svg"
+  },
+  {
+    "type": "bold",
+    "name": "cloud",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/cloud.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_sidebar_left_expand",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-sidebar-left-expand.svg"
+  },
+  {
+    "type": "bold",
+    "name": "building_broadcast_tower",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/building-broadcast-tower.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_big_down_lines",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-big-down-lines.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_big_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-big-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "salad",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/salad.svg"
+  },
+  {
+    "type": "bold",
+    "name": "shield_lock",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/shield-lock.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_key",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-key.svg"
+  },
+  {
+    "type": "bold",
+    "name": "navigation",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/navigation.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_arrow_down_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-arrow-down-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_t",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-t.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clipboard",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clipboard.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_chevrons_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-chevrons-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_chevron_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-chevron-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_a",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-a.svg"
+  },
+  {
+    "type": "bold",
+    "name": "filter",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/filter.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_paypal",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-paypal.svg"
+  },
+  {
+    "type": "bold",
+    "name": "automatic_gearbox",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/automatic-gearbox.svg"
+  },
+  {
+    "type": "bold",
+    "name": "device_tv_old",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/device-tv-old.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clover",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clover.svg"
+  },
+  {
+    "type": "bold",
+    "name": "basket",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/basket.svg"
+  },
+  {
+    "type": "bold",
+    "name": "headphones",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/headphones.svg"
+  },
+  {
+    "type": "bold",
+    "name": "polaroid",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/polaroid.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_description",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-description.svg"
+  },
+  {
+    "type": "bold",
+    "name": "car",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/car.svg"
+  },
+  {
+    "type": "bold",
+    "name": "binary_tree",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/binary-tree.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_v",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-v.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_i",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-i.svg"
+  },
+  {
+    "type": "bold",
+    "name": "battery",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/battery.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_sidebar_right_collapse",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-sidebar-right-collapse.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_x",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-x.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "test_pipe_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/test-pipe-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_code_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-code-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_d",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-d.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_phone",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-phone.svg"
+  },
+  {
+    "type": "bold",
+    "name": "shield_check",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/shield-check.svg"
+  },
+  {
+    "type": "bold",
+    "name": "forbid",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/forbid.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_bottombar_collapse",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-bottombar-collapse.svg"
+  },
+  {
+    "type": "bold",
+    "name": "align_box_top_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/align-box-top-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_chevrons_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-chevrons-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_y",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-y.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_h",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-h.svg"
+  },
+  {
+    "type": "bold",
+    "name": "picture_in_picture",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/picture-in-picture.svg"
+  },
+  {
+    "type": "bold",
+    "name": "zoom_out_area",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/zoom-out-area.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chart_pie_3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chart-pie-3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "key",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/key.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_o",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-o.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bell_minus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bell-minus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "train",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/train.svg"
+  },
+  {
+    "type": "bold",
+    "name": "pinned",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/pinned.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_f5",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-f5.svg"
+  },
+  {
+    "type": "bold",
+    "name": "alarm",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/alarm.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "align_box_right_top",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/align-box-right-top.svg"
+  },
+  {
+    "type": "bold",
+    "name": "cards",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/cards.svg"
+  },
+  {
+    "type": "bold",
+    "name": "info_circle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/info-circle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "gift",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/gift.svg"
+  },
+  {
+    "type": "bold",
+    "name": "alert_square_rounded",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/alert-square-rounded.svg"
+  },
+  {
+    "type": "bold",
+    "name": "barbell",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/barbell.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_x",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-x.svg"
+  },
+  {
+    "type": "bold",
+    "name": "flag",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/flag.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chart_pie",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chart-pie.svg"
+  },
+  {
+    "type": "bold",
+    "name": "milk",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/milk.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rotated",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rotated.svg"
+  },
+  {
+    "type": "bold",
+    "name": "car_suv",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/car-suv.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_w",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-w.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_f6",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-f6.svg"
+  },
+  {
+    "type": "bold",
+    "name": "car_crane",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/car-crane.svg"
+  },
+  {
+    "type": "bold",
+    "name": "candle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/candle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_chevron_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-chevron-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_c",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-c.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_minus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-minus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "thumb_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/thumb-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_g",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-g.svg"
+  },
+  {
+    "type": "bold",
+    "name": "rosette_discount",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/rosette-discount.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hanger_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hanger-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_chevron_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-chevron-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "home",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/home.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_f7",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-f7.svg"
+  },
+  {
+    "type": "bold",
+    "name": "location",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/location.svg"
+  },
+  {
+    "type": "bold",
+    "name": "flame",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/flame.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_percentage",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-percentage.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_rectangle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-rectangle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "rectangle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/rectangle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_d",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-d.svg"
+  },
+  {
+    "type": "bold",
+    "name": "code_circle_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/code-circle-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_youtube",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-youtube.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_number_1",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-number-1.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_download",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-download.svg"
+  },
+  {
+    "type": "bold",
+    "name": "alert_circle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/alert-circle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "coin_yuan",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/coin-yuan.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_number_4",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-number-4.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_number_4",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-number-4.svg"
+  },
+  {
+    "type": "bold",
+    "name": "badge_sd",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/badge-sd.svg"
+  },
+  {
+    "type": "bold",
+    "name": "binary_tree_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/binary-tree-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "inner_shadow_top_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/inner-shadow-top-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "blender",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/blender.svg"
+  },
+  {
+    "type": "bold",
+    "name": "inner_shadow_bottom_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/inner-shadow-bottom-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "zoom",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/zoom.svg"
+  },
+  {
+    "type": "bold",
+    "name": "inner_shadow_top",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/inner-shadow-top.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_opera",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-opera.svg"
+  },
+  {
+    "type": "bold",
+    "name": "carousel_vertical",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/carousel-vertical.svg"
+  },
+  {
+    "type": "bold",
+    "name": "lungs",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/lungs.svg"
+  },
+  {
+    "type": "bold",
+    "name": "christmas_tree",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/christmas-tree.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_asterisk",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-asterisk.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_arrow_up_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-arrow-up-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "temperature_minus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/temperature-minus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "versions",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/versions.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_down_square",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-down-square.svg"
+  },
+  {
+    "type": "bold",
+    "name": "table",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/table.svg"
+  },
+  {
+    "type": "bold",
+    "name": "zoom_question",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/zoom-question.svg"
+  },
+  {
+    "type": "bold",
+    "name": "air_balloon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/air-balloon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "align_box_right_middle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/align-box-right-middle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_q",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-q.svg"
+  },
+  {
+    "type": "bold",
+    "name": "grid_pattern",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/grid-pattern.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_arrow_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-arrow-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_q",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-q.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_delta",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-delta.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_sad",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-sad.svg"
+  },
+  {
+    "type": "bold",
+    "name": "info_octagon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/info-octagon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bed",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bed.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_stripe",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-stripe.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clubs",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clubs.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clock_hour_5",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clock-hour-5.svg"
+  },
+  {
+    "type": "bold",
+    "name": "carambola",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/carambola.svg"
+  },
+  {
+    "type": "bold",
+    "name": "sunset_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/sunset-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "shield_half",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/shield-half.svg"
+  },
+  {
+    "type": "bold",
+    "name": "temperature_plus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/temperature-plus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "octagon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/octagon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_m",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-m.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_number_3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-number-3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded.svg"
+  },
+  {
+    "type": "bold",
+    "name": "align_box_top_center",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/align-box-top-center.svg"
+  },
+  {
+    "type": "bold",
+    "name": "butterfly",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/butterfly.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bookmarks",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bookmarks.svg"
+  },
+  {
+    "type": "bold",
+    "name": "player_stop",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/player-stop.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_dot",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-dot.svg"
+  },
+  {
+    "type": "bold",
+    "name": "macro",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/macro.svg"
+  },
+  {
+    "type": "bold",
+    "name": "ad",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/ad.svg"
+  },
+  {
+    "type": "bold",
+    "name": "shield",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/shield.svg"
+  },
+  {
+    "type": "bold",
+    "name": "battery_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/battery-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "calendar_week",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/calendar-week.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square.svg"
+  },
+  {
+    "type": "bold",
+    "name": "rosette",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/rosette.svg"
+  },
+  {
+    "type": "bold",
+    "name": "lego",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/lego.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bottle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bottle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_spotify",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-spotify.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_number_7",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-number-7.svg"
+  },
+  {
+    "type": "bold",
+    "name": "player_play",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/player-play.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_move_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-move-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_number_8",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-number-8.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_g",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-g.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bowl_chopsticks",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bowl-chopsticks.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_up_circle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-up-circle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "sun_low",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/sun-low.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mood_angry",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mood-angry.svg"
+  },
+  {
+    "type": "bold",
+    "name": "capsule_horizontal",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/capsule-horizontal.svg"
+  },
+  {
+    "type": "bold",
+    "name": "charging_pile",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/charging-pile.svg"
+  },
+  {
+    "type": "bold",
+    "name": "rosette_discount_check",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/rosette-discount-check.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_f",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-f.svg"
+  },
+  {
+    "type": "bold",
+    "name": "credit_card",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/credit-card.svg"
+  },
+  {
+    "type": "bold",
+    "name": "box_align_bottom_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/box-align-bottom-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "cone_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/cone-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "melon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/melon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "device_mobile",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/device-mobile.svg"
+  },
+  {
+    "type": "bold",
+    "name": "car_fan",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/car-fan.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_chevrons_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-chevrons-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "caret_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/caret-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_arrow_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-arrow-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mood_sad",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mood-sad.svg"
+  },
+  {
+    "type": "bold",
+    "name": "help_square",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/help-square.svg"
+  },
+  {
+    "type": "bold",
+    "name": "filters",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/filters.svg"
+  },
+  {
+    "type": "bold",
+    "name": "sign_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/sign-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bell_x",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bell-x.svg"
+  },
+  {
+    "type": "bold",
+    "name": "crop_1_1",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/crop-1-1.svg"
+  },
+  {
+    "type": "bold",
+    "name": "meeple",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/meeple.svg"
+  },
+  {
+    "type": "bold",
+    "name": "binoculars",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/binoculars.svg"
+  },
+  {
+    "type": "bold",
+    "name": "battery_automotive",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/battery-automotive.svg"
+  },
+  {
+    "type": "bold",
+    "name": "message_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/message-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "calendar_month",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/calendar-month.svg"
+  },
+  {
+    "type": "bold",
+    "name": "badge_3d",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/badge-3d.svg"
+  },
+  {
+    "type": "bold",
+    "name": "tags",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/tags.svg"
+  },
+  {
+    "type": "bold",
+    "name": "video",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/video.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clock_hour_3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clock-hour-3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_autofit_width",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-autofit-width.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_l",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-l.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_cv",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-cv.svg"
+  },
+  {
+    "type": "bold",
+    "name": "ironing_steam",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/ironing-steam.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_tinder",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-tinder.svg"
+  },
+  {
+    "type": "bold",
+    "name": "directions",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/directions.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_big_left_lines",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-big-left-lines.svg"
+  },
+  {
+    "type": "bold",
+    "name": "microwave",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/microwave.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_g",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-g.svg"
+  },
+  {
+    "type": "bold",
+    "name": "xbox_a",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/xbox-a.svg"
+  },
+  {
+    "type": "bold",
+    "name": "message_chatbot",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/message-chatbot.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bike",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bike.svg"
+  },
+  {
+    "type": "bold",
+    "name": "coin",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/coin.svg"
+  },
+  {
+    "type": "bold",
+    "name": "crop_16_9",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/crop-16-9.svg"
+  },
+  {
+    "type": "bold",
+    "name": "device_desktop",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/device-desktop.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bong",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bong.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circles",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circles.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_right_rhombus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-right-rhombus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_arrow_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-arrow-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "ferry",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/ferry.svg"
+  },
+  {
+    "type": "bold",
+    "name": "artboard",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/artboard.svg"
+  },
+  {
+    "type": "bold",
+    "name": "picture_in_picture_top",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/picture-in-picture-top.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_b",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-b.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_w",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-w.svg"
+  },
+  {
+    "type": "bold",
+    "name": "seedling",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/seedling.svg"
+  },
+  {
+    "type": "bold",
+    "name": "lifebuoy",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/lifebuoy.svg"
+  },
+  {
+    "type": "bold",
+    "name": "sign_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/sign-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "droplet_half_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/droplet-half-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_r",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-r.svg"
+  },
+  {
+    "type": "bold",
+    "name": "dice_4",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/dice-4.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_left_circle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-left-circle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_number_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-number-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "message",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/message.svg"
+  },
+  {
+    "type": "bold",
+    "name": "beer",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/beer.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_n",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-n.svg"
+  },
+  {
+    "type": "bold",
+    "name": "dashboard",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/dashboard.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_number_0",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-number-0.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_number_8",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-number-8.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_v",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-v.svg"
+  },
+  {
+    "type": "bold",
+    "name": "dumpling",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/dumpling.svg"
+  },
+  {
+    "type": "bold",
+    "name": "camera",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/camera.svg"
+  },
+  {
+    "type": "bold",
+    "name": "egg_fried",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/egg-fried.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_big_down_line",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-big-down-line.svg"
+  },
+  {
+    "type": "bold",
+    "name": "rectangle_vertical",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/rectangle-vertical.svg"
+  },
+  {
+    "type": "bold",
+    "name": "device_remote",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/device-remote.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_caret_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-caret-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_bottombar",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-bottombar.svg"
+  },
+  {
+    "type": "bold",
+    "name": "cookie",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/cookie.svg"
+  },
+  {
+    "type": "bold",
+    "name": "box_align_top_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/box-align-top-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_number_0",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-number-0.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_open_source",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-open-source.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chart_dots_3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chart-dots-3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hospital_circle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hospital-circle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_t",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-t.svg"
+  },
+  {
+    "type": "bold",
+    "name": "triangle_inverted",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/triangle-inverted.svg"
+  },
+  {
+    "type": "bold",
+    "name": "escalator",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/escalator.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_a",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-a.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chart_dots",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chart-dots.svg"
+  },
+  {
+    "type": "bold",
+    "name": "alert_triangle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/alert-triangle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clock_hour_10",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clock-hour-10.svg"
+  },
+  {
+    "type": "bold",
+    "name": "blob",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/blob.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_l",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-l.svg"
+  },
+  {
+    "type": "bold",
+    "name": "fish_bone",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/fish-bone.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chart_area",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chart-area.svg"
+  },
+  {
+    "type": "bold",
+    "name": "player_track_next",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/player-track-next.svg"
+  },
+  {
+    "type": "bold",
+    "name": "ironing_1",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/ironing-1.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_m",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-m.svg"
+  },
+  {
+    "type": "bold",
+    "name": "category",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/category.svg"
+  },
+  {
+    "type": "bold",
+    "name": "tilt_shift",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/tilt-shift.svg"
+  },
+  {
+    "type": "bold",
+    "name": "align_box_right_bottom",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/align-box-right-bottom.svg"
+  },
+  {
+    "type": "bold",
+    "name": "award",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/award.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_chevron_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-chevron-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "compass",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/compass.svg"
+  },
+  {
+    "type": "bold",
+    "name": "cash_banknote",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/cash-banknote.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clipboard_list",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clipboard-list.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_smile",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-smile.svg"
+  },
+  {
+    "type": "bold",
+    "name": "inner_shadow_top_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/inner-shadow-top-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_distribute_vertical",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-distribute-vertical.svg"
+  },
+  {
+    "type": "bold",
+    "name": "pennant_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/pennant-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "book",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/book.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mood_wrrr",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mood-wrrr.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mood_neutral",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mood-neutral.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_l",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-l.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_navbar",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-navbar.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_tumblr",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-tumblr.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clipboard_data",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clipboard-data.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_autofit_height",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-autofit-height.svg"
+  },
+  {
+    "type": "bold",
+    "name": "dice_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/dice-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "woman",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/woman.svg"
+  },
+  {
+    "type": "bold",
+    "name": "box_align_top_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/box-align-top-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_m",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-m.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_chevron_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-chevron-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_x",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-x.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_k",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-k.svg"
+  },
+  {
+    "type": "bold",
+    "name": "caret_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/caret-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_x",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-x.svg"
+  },
+  {
+    "type": "bold",
+    "name": "keyframe_align_horizontal",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/keyframe-align-horizontal.svg"
+  },
+  {
+    "type": "bold",
+    "name": "jetpack",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/jetpack.svg"
+  },
+  {
+    "type": "bold",
+    "name": "michelin_star",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/michelin-star.svg"
+  },
+  {
+    "type": "bold",
+    "name": "play_card_a",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/play-card-a.svg"
+  },
+  {
+    "type": "bold",
+    "name": "copyright",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/copyright.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_n",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-n.svg"
+  },
+  {
+    "type": "bold",
+    "name": "guitar_pick",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/guitar-pick.svg"
+  },
+  {
+    "type": "bold",
+    "name": "alarm_plus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/alarm-plus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "align_box_left_top",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/align-box-left-top.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clock_hour_7",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clock-hour-7.svg"
+  },
+  {
+    "type": "bold",
+    "name": "favicon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/favicon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "diamond",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/diamond.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_q",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-q.svg"
+  },
+  {
+    "type": "bold",
+    "name": "droplet_half",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/droplet-half.svg"
+  },
+  {
+    "type": "bold",
+    "name": "play_card_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/play-card-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_n",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-n.svg"
+  },
+  {
+    "type": "bold",
+    "name": "device_ipad",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/device-ipad.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_w",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-w.svg"
+  },
+  {
+    "type": "bold",
+    "name": "receipt",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/receipt.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_h",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-h.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_j",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-j.svg"
+  },
+  {
+    "type": "bold",
+    "name": "keyframe_align_vertical",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/keyframe-align-vertical.svg"
+  },
+  {
+    "type": "bold",
+    "name": "box_align_bottom",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/box-align-bottom.svg"
+  },
+  {
+    "type": "bold",
+    "name": "zeppelin",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/zeppelin.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mickey",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mickey.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_plus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-plus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clock_hour_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clock-hour-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "calendar_event",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/calendar-event.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_angular",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-angular.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_number_0",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-number-0.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_caret_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-caret-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "truck",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/truck.svg"
+  },
+  {
+    "type": "bold",
+    "name": "graph",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/graph.svg"
+  },
+  {
+    "type": "bold",
+    "name": "lock_square_rounded",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/lock-square-rounded.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_number_3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-number-3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "badge_wc",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/badge-wc.svg"
+  },
+  {
+    "type": "bold",
+    "name": "gps",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/gps.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_number_1",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-number-1.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chart_bubble",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chart-bubble.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bounce_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bounce-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "puzzle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/puzzle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "align_box_bottom_center",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/align-box-bottom-center.svg"
+  },
+  {
+    "type": "bold",
+    "name": "device_unknown",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/device-unknown.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_chevrons_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-chevrons-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chart_grid_dots",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chart-grid-dots.svg"
+  },
+  {
+    "type": "bold",
+    "name": "help_triangle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/help-triangle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "help_circle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/help-circle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_k",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-k.svg"
+  },
+  {
+    "type": "bold",
+    "name": "biohazard",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/biohazard.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_grid",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-grid.svg"
+  },
+  {
+    "type": "bold",
+    "name": "spade",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/spade.svg"
+  },
+  {
+    "type": "bold",
+    "name": "capsule",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/capsule.svg"
+  },
+  {
+    "type": "bold",
+    "name": "alarm_minus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/alarm-minus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_steam",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-steam.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_badge_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-badge-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "glass",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/glass.svg"
+  },
+  {
+    "type": "bold",
+    "name": "player_record",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/player-record.svg"
+  },
+  {
+    "type": "bold",
+    "name": "shield_checkered",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/shield-checkered.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_kick",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-kick.svg"
+  },
+  {
+    "type": "bold",
+    "name": "stack_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/stack-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "box_align_top",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/box-align-top.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_h",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-h.svg"
+  },
+  {
+    "type": "bold",
+    "name": "zoom_in",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/zoom-in.svg"
+  },
+  {
+    "type": "bold",
+    "name": "play_card_3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/play-card-3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_pinterest",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-pinterest.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_j",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-j.svg"
+  },
+  {
+    "type": "bold",
+    "name": "alert_octagon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/alert-octagon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_x",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-x.svg"
+  },
+  {
+    "type": "bold",
+    "name": "device_tablet",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/device-tablet.svg"
+  },
+  {
+    "type": "bold",
+    "name": "dice_3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/dice-3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_e",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-e.svg"
+  },
+  {
+    "type": "bold",
+    "name": "copy_minus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/copy-minus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clock_hour_12",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clock-hour-12.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_navbar_collapse",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-navbar-collapse.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chess_king",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chess-king.svg"
+  },
+  {
+    "type": "bold",
+    "name": "calculator",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/calculator.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_s",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-s.svg"
+  },
+  {
+    "type": "bold",
+    "name": "analyze",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/analyze.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_arrow_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-arrow-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "ironing_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/ironing-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "briefcase",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/briefcase.svg"
+  },
+  {
+    "type": "bold",
+    "name": "info_square",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/info-square.svg"
+  },
+  {
+    "type": "bold",
+    "name": "coin_rupee",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/coin-rupee.svg"
+  },
+  {
+    "type": "bold",
+    "name": "play_card_9",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/play-card-9.svg"
+  },
+  {
+    "type": "bold",
+    "name": "gas_station",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/gas-station.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_big_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-big-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mouse",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mouse.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_align_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-align-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clock_hour_4",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clock-hour-4.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_d",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-d.svg"
+  },
+  {
+    "type": "bold",
+    "name": "lasso_polygon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/lasso-polygon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bell_z",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bell-z.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_check",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-check.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_b",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-b.svg"
+  },
+  {
+    "type": "bold",
+    "name": "align_box_top_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/align-box-top-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "dice_5",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/dice-5.svg"
+  },
+  {
+    "type": "bold",
+    "name": "function",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/function.svg"
+  },
+  {
+    "type": "bold",
+    "name": "exposure",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/exposure.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_number_9",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-number-9.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brightness_auto",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brightness-auto.svg"
+  },
+  {
+    "type": "bold",
+    "name": "briefcase_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/briefcase-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "xbox_y",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/xbox-y.svg"
+  },
+  {
+    "type": "bold",
+    "name": "point",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/point.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_f",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-f.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bookmark",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bookmark.svg"
+  },
+  {
+    "type": "bold",
+    "name": "cross",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/cross.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_number_8",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-number-8.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chart_pie_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chart-pie-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "pig",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/pig.svg"
+  },
+  {
+    "type": "bold",
+    "name": "device_usb",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/device-usb.svg"
+  },
+  {
+    "type": "bold",
+    "name": "inner_shadow_bottom_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/inner-shadow-bottom-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_arrow_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-arrow-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "player_eject",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/player-eject.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_sidebar_right_expand",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-sidebar-right-expand.svg"
+  },
+  {
+    "type": "bold",
+    "name": "adjustments",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/adjustments.svg"
+  },
+  {
+    "type": "bold",
+    "name": "sunglasses",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/sunglasses.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_x",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-x.svg"
+  },
+  {
+    "type": "bold",
+    "name": "cannabis",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/cannabis.svg"
+  },
+  {
+    "type": "bold",
+    "name": "paint",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/paint.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_whatsapp",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-whatsapp.svg"
+  },
+  {
+    "type": "bold",
+    "name": "gauge",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/gauge.svg"
+  },
+  {
+    "type": "bold",
+    "name": "scuba_diving_tank",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/scuba-diving-tank.svg"
+  },
+  {
+    "type": "bold",
+    "name": "oval_vertical",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/oval-vertical.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_facebook",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-facebook.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_number_5",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-number-5.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_badge_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-badge-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bed_flat",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bed-flat.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chart_area_line",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chart-area-line.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_down_circle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-down-circle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "direction_sign",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/direction-sign.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_p",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-p.svg"
+  },
+  {
+    "type": "bold",
+    "name": "calendar",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/calendar.svg"
+  },
+  {
+    "type": "bold",
+    "name": "play_card_star",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/play-card-star.svg"
+  },
+  {
+    "type": "bold",
+    "name": "inner_shadow_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/inner-shadow-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_i",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-i.svg"
+  },
+  {
+    "type": "bold",
+    "name": "presentation",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/presentation.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bowl",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bowl.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_w",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-w.svg"
+  },
+  {
+    "type": "bold",
+    "name": "campfire",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/campfire.svg"
+  },
+  {
+    "type": "bold",
+    "name": "inner_shadow_bottom",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/inner-shadow-bottom.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_f0",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-f0.svg"
+  },
+  {
+    "type": "bold",
+    "name": "zoom_check",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/zoom-check.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_tabler",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-tabler.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_y",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-y.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_chevron_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-chevron-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "ad_circle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/ad-circle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "relation_one_to_one",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/relation-one-to-one.svg"
+  },
+  {
+    "type": "bold",
+    "name": "paw",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/paw.svg"
+  },
+  {
+    "type": "bold",
+    "name": "keyboard",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/keyboard.svg"
+  },
+  {
+    "type": "bold",
+    "name": "assembly",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/assembly.svg"
+  },
+  {
+    "type": "bold",
+    "name": "atom_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/atom-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_s",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-s.svg"
+  },
+  {
+    "type": "bold",
+    "name": "pointer",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/pointer.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_v",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-v.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clock_hour_8",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clock-hour-8.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_r",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-r.svg"
+  },
+  {
+    "type": "bold",
+    "name": "trolley",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/trolley.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_up_square",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-up-square.svg"
+  },
+  {
+    "type": "bold",
+    "name": "battery_1",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/battery-1.svg"
+  },
+  {
+    "type": "bold",
+    "name": "inner_shadow_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/inner-shadow-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file.svg"
+  },
+  {
+    "type": "bold",
+    "name": "sort_ascending_shapes",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/sort-ascending-shapes.svg"
+  },
+  {
+    "type": "bold",
+    "name": "device_cctv",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/device-cctv.svg"
+  },
+  {
+    "type": "bold",
+    "name": "helicopter",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/helicopter.svg"
+  },
+  {
+    "type": "bold",
+    "name": "zoom_money",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/zoom-money.svg"
+  },
+  {
+    "type": "bold",
+    "name": "flask",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/flask.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mushroom",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mushroom.svg"
+  },
+  {
+    "type": "bold",
+    "name": "zoom_exclamation",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/zoom-exclamation.svg"
+  },
+  {
+    "type": "bold",
+    "name": "phone",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/phone.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bulb",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bulb.svg"
+  },
+  {
+    "type": "bold",
+    "name": "toggle_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/toggle-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "rollercoaster",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/rollercoaster.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_chevrons_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-chevrons-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_number_9",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-number-9.svg"
+  },
+  {
+    "type": "bold",
+    "name": "crop_landscape",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/crop-landscape.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_chevron_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-chevron-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_align_top",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-align-top.svg"
+  },
+  {
+    "type": "bold",
+    "name": "live_view",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/live-view.svg"
+  },
+  {
+    "type": "bold",
+    "name": "coin_euro",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/coin-euro.svg"
+  },
+  {
+    "type": "bold",
+    "name": "ghost",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/ghost.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bell_plus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bell-plus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "badge",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/badge.svg"
+  },
+  {
+    "type": "bold",
+    "name": "egg",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/egg.svg"
+  },
+  {
+    "type": "bold",
+    "name": "transition_bottom",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/transition-bottom.svg"
+  },
+  {
+    "type": "bold",
+    "name": "carousel_horizontal",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/carousel-horizontal.svg"
+  },
+  {
+    "type": "bold",
+    "name": "badge_tm",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/badge-tm.svg"
+  },
+  {
+    "type": "bold",
+    "name": "relation_many_to_many",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/relation-many-to-many.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mood_smile",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mood-smile.svg"
+  },
+  {
+    "type": "bold",
+    "name": "contrast_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/contrast-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "apps",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/apps.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_l",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-l.svg"
+  },
+  {
+    "type": "bold",
+    "name": "folders",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/folders.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_google",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-google.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chart_pie_4",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chart-pie-4.svg"
+  },
+  {
+    "type": "bold",
+    "name": "caravan",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/caravan.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_number_4",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-number-4.svg"
+  },
+  {
+    "type": "bold",
+    "name": "battery_vertical_1",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/battery-vertical-1.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_p",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-p.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_z",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-z.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_caret_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-caret-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_number_6",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-number-6.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mood_confuzed",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mood-confuzed.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_chevrons_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-chevrons-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "xbox_b",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/xbox-b.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_number_3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-number-3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_j",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-j.svg"
+  },
+  {
+    "type": "bold",
+    "name": "user",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/user.svg"
+  },
+  {
+    "type": "bold",
+    "name": "timeline_event",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/timeline-event.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_up_rhombus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-up-rhombus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "exchange",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/exchange.svg"
+  },
+  {
+    "type": "bold",
+    "name": "speedboat",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/speedboat.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_chevrons_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-chevrons-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_s",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-s.svg"
+  },
+  {
+    "type": "bold",
+    "name": "badge_ar",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/badge-ar.svg"
+  },
+  {
+    "type": "bold",
+    "name": "zoom_scan",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/zoom-scan.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_number_6",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-number-6.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_big_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-big-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_arrow_down_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-arrow-down-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_u",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-u.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_move_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-move-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_y",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-y.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_text",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-text.svg"
+  },
+  {
+    "type": "bold",
+    "name": "play_card_6",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/play-card-6.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_check",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-check.svg"
+  },
+  {
+    "type": "bold",
+    "name": "fence",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/fence.svg"
+  },
+  {
+    "type": "bold",
+    "name": "trash_x",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/trash-x.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_c",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-c.svg"
+  },
+  {
+    "type": "bold",
+    "name": "device_heart_monitor",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/device-heart-monitor.svg"
+  },
+  {
+    "type": "bold",
+    "name": "coin_bitcoin",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/coin-bitcoin.svg"
+  },
+  {
+    "type": "bold",
+    "name": "relation_one_to_many",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/relation-one-to-many.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bell_ringing",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bell-ringing.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_chevron_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-chevron-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_tiktok",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-tiktok.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_sidebar",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-sidebar.svg"
+  },
+  {
+    "type": "bold",
+    "name": "backspace",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/backspace.svg"
+  },
+  {
+    "type": "bold",
+    "name": "message_report",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/message-report.svg"
+  },
+  {
+    "type": "bold",
+    "name": "spider",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/spider.svg"
+  },
+  {
+    "type": "bold",
+    "name": "info_hexagon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/info-hexagon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_h",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-h.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_number_7",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-number-7.svg"
+  },
+  {
+    "type": "bold",
+    "name": "current_location",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/current-location.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_t",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-t.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_number_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-number-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "ballpen",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/ballpen.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_arrow_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-arrow-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_q",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-q.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_digit",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-digit.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_big_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-big-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_f2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-f2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bomb",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bomb.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_o",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-o.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_n",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-n.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_number_7",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-number-7.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_chevrons_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-chevrons-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "panorama_vertical",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/panorama-vertical.svg"
+  },
+  {
+    "type": "bold",
+    "name": "eye",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/eye.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_f8",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-f8.svg"
+  },
+  {
+    "type": "bold",
+    "name": "caret_up_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/caret-up-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_vimeo",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-vimeo.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_instagram",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-instagram.svg"
+  },
+  {
+    "type": "bold",
+    "name": "badge_8k",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/badge-8k.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chess_queen",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chess-queen.svg"
+  },
+  {
+    "type": "bold",
+    "name": "triangle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/triangle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "moon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/moon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_k",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-k.svg"
+  },
+  {
+    "type": "bold",
+    "name": "battery_4",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/battery-4.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_number_0",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-number-0.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_big_right_lines",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-big-right-lines.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_move_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-move-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "play_card_q",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/play-card-q.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clock_hour_6",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clock-hour-6.svg"
+  },
+  {
+    "type": "bold",
+    "name": "apple",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/apple.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_horizontal",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-horizontal.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_star",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-star.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clock_hour_11",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clock-hour-11.svg"
+  },
+  {
+    "type": "bold",
+    "name": "cherry",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/cherry.svg"
+  },
+  {
+    "type": "bold",
+    "name": "player_pause",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/player-pause.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_r",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-r.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clipboard_check",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clipboard-check.svg"
+  },
+  {
+    "type": "bold",
+    "name": "help_hexagon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/help-hexagon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "player_skip_forward",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/player-skip-forward.svg"
+  },
+  {
+    "type": "bold",
+    "name": "zoom_cancel",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/zoom-cancel.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clipboard_text",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clipboard-text.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_arrow_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-arrow-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "disc",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/disc.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_k",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-k.svg"
+  },
+  {
+    "type": "bold",
+    "name": "battery_3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/battery-3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "battery_vertical_4",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/battery-vertical-4.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_number_6",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-number-6.svg"
+  },
+  {
+    "type": "bold",
+    "name": "pin",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/pin.svg"
+  },
+  {
+    "type": "bold",
+    "name": "microphone",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/microphone.svg"
+  },
+  {
+    "type": "bold",
+    "name": "medical_cross",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/medical-cross.svg"
+  },
+  {
+    "type": "bold",
+    "name": "keyframe_align_center",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/keyframe-align-center.svg"
+  },
+  {
+    "type": "bold",
+    "name": "label_important",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/label-important.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_chevron_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-chevron-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_right_square",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-right-square.svg"
+  },
+  {
+    "type": "bold",
+    "name": "contrast",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/contrast.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_number_9",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-number-9.svg"
+  },
+  {
+    "type": "bold",
+    "name": "escalator_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/escalator-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "eyeglass_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/eyeglass-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "cardboards",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/cardboards.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_m",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-m.svg"
+  },
+  {
+    "type": "bold",
+    "name": "diamonds",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/diamonds.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_discord",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-discord.svg"
+  },
+  {
+    "type": "bold",
+    "name": "elevator",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/elevator.svg"
+  },
+  {
+    "type": "bold",
+    "name": "info_triangle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/info-triangle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bowl_spoon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bowl-spoon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "zoom_pan",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/zoom-pan.svg"
+  },
+  {
+    "type": "bold",
+    "name": "parking_circle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/parking-circle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "cone",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/cone.svg"
+  },
+  {
+    "type": "bold",
+    "name": "badge_ad",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/badge-ad.svg"
+  },
+  {
+    "type": "bold",
+    "name": "military_rank",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/military-rank.svg"
+  },
+  {
+    "type": "bold",
+    "name": "article",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/article.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mail",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mail.svg"
+  },
+  {
+    "type": "bold",
+    "name": "nurse",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/nurse.svg"
+  },
+  {
+    "type": "bold",
+    "name": "sunset",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/sunset.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_f4",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-f4.svg"
+  },
+  {
+    "type": "bold",
+    "name": "photo",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/photo.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_align_center",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-align-center.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bell",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bell.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_i",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-i.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_check",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-check.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_neutral",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-neutral.svg"
+  },
+  {
+    "type": "bold",
+    "name": "zoom_in_area",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/zoom-in-area.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chart_funnel",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chart-funnel.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_number_5",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-number-5.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_f",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-f.svg"
+  },
+  {
+    "type": "bold",
+    "name": "glass_full",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/glass-full.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_patreon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-patreon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "blade",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/blade.svg"
+  },
+  {
+    "type": "bold",
+    "name": "coin_taka",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/coin-taka.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_arrow_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-arrow-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_chevrons_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-chevrons-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "transition_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/transition-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "battery_vertical_3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/battery-vertical-3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "help_octagon",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/help-octagon.svg"
+  },
+  {
+    "type": "bold",
+    "name": "align_box_bottom_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/align-box-bottom-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_arrow_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-arrow-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_down_rhombus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-down-rhombus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_c",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-c.svg"
+  },
+  {
+    "type": "bold",
+    "name": "oval",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/oval.svg"
+  },
+  {
+    "type": "bold",
+    "name": "caret_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/caret-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_linkedin",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-linkedin.svg"
+  },
+  {
+    "type": "bold",
+    "name": "device_imac",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/device-imac.svg"
+  },
+  {
+    "type": "bold",
+    "name": "copy_check",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/copy-check.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_x",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-x.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_sketch",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-sketch.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_f9",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-f9.svg"
+  },
+  {
+    "type": "bold",
+    "name": "dialpad",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/dialpad.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_a",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-a.svg"
+  },
+  {
+    "type": "bold",
+    "name": "align_box_left_bottom",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/align-box-left-bottom.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_u",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-u.svg"
+  },
+  {
+    "type": "bold",
+    "name": "play_card_k",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/play-card-k.svg"
+  },
+  {
+    "type": "bold",
+    "name": "dual_screen",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/dual-screen.svg"
+  },
+  {
+    "type": "bold",
+    "name": "play_card_1",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/play-card-1.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_r",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-r.svg"
+  },
+  {
+    "type": "bold",
+    "name": "gift_card",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/gift-card.svg"
+  },
+  {
+    "type": "bold",
+    "name": "badge_vo",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/badge-vo.svg"
+  },
+  {
+    "type": "bold",
+    "name": "motorbike",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/motorbike.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brightness_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brightness-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_guide",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-guide.svg"
+  },
+  {
+    "type": "bold",
+    "name": "keyframe",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/keyframe.svg"
+  },
+  {
+    "type": "bold",
+    "name": "stars",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/stars.svg"
+  },
+  {
+    "type": "bold",
+    "name": "label",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/label.svg"
+  },
+  {
+    "type": "bold",
+    "name": "shopping_cart",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/shopping-cart.svg"
+  },
+  {
+    "type": "bold",
+    "name": "cloud_computing",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/cloud-computing.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_number_6",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-number-6.svg"
+  },
+  {
+    "type": "bold",
+    "name": "squares",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/squares.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_f",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-f.svg"
+  },
+  {
+    "type": "bold",
+    "name": "message_circle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/message-circle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_sidebar_left_collapse",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-sidebar-left-collapse.svg"
+  },
+  {
+    "type": "bold",
+    "name": "jewish_star",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/jewish-star.svg"
+  },
+  {
+    "type": "bold",
+    "name": "sun",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/sun.svg"
+  },
+  {
+    "type": "bold",
+    "name": "cactus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/cactus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "align_box_center_middle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/align-box-center-middle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "forbid_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/forbid-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "soup",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/soup.svg"
+  },
+  {
+    "type": "bold",
+    "name": "flare",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/flare.svg"
+  },
+  {
+    "type": "bold",
+    "name": "caret_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/caret-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "copyleft",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/copyleft.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_u",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-u.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mood_kid",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mood-kid.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chart_dots_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chart-dots-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_arrow_up_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-arrow-up-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "ghost_3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/ghost-3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "sort_ascending_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/sort-ascending-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "shirt",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/shirt.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_y",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-y.svg"
+  },
+  {
+    "type": "bold",
+    "name": "swipe_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/swipe-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_cards",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-cards.svg"
+  },
+  {
+    "type": "bold",
+    "name": "droplet",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/droplet.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bell_ringing_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bell-ringing-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "thumb_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/thumb-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_kanban",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-kanban.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_align_bottom",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-align-bottom.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brightness_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brightness-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_check",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-check.svg"
+  },
+  {
+    "type": "bold",
+    "name": "feather",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/feather.svg"
+  },
+  {
+    "type": "bold",
+    "name": "asset",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/asset.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chess_bishop",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chess-bishop.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_right_circle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-right-circle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "swipe_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/swipe-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "golf",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/golf.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mug",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mug.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_windows",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-windows.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_z",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-z.svg"
+  },
+  {
+    "type": "bold",
+    "name": "copy_x",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/copy-x.svg"
+  },
+  {
+    "type": "bold",
+    "name": "device_vision_pro",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/device-vision-pro.svg"
+  },
+  {
+    "type": "bold",
+    "name": "transition_top",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/transition-top.svg"
+  },
+  {
+    "type": "bold",
+    "name": "device_watch",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/device-watch.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_autofit_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-autofit-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "cloud_data_connection",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/cloud-data-connection.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_caret_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-caret-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "icons",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/icons.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_power",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-power.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_messenger",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-messenger.svg"
+  },
+  {
+    "type": "bold",
+    "name": "windmill",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/windmill.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_align_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-align-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "coin_yen",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/coin-yen.svg"
+  },
+  {
+    "type": "bold",
+    "name": "stack",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/stack.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_number_7",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-number-7.svg"
+  },
+  {
+    "type": "bold",
+    "name": "discount",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/discount.svg"
+  },
+  {
+    "type": "bold",
+    "name": "pill",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/pill.svg"
+  },
+  {
+    "type": "bold",
+    "name": "eyeglass",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/eyeglass.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_weibo",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-weibo.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_minus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-minus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "affiliate",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/affiliate.svg"
+  },
+  {
+    "type": "bold",
+    "name": "flag_3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/flag-3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_s",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-s.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_twitter",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-twitter.svg"
+  },
+  {
+    "type": "bold",
+    "name": "sort_descending_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/sort-descending-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "player_track_prev",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/player-track-prev.svg"
+  },
+  {
+    "type": "bold",
+    "name": "crop_3_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/crop-3-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_chevron_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-chevron-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "barrier_block",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/barrier-block.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_left_square",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-left-square.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_big_up_line",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-big-up-line.svg"
+  },
+  {
+    "type": "bold",
+    "name": "coin_monero",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/coin-monero.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bone",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bone.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_minus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-minus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "app_window",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/app-window.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_j",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-j.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_arrow_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-arrow-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chess_rook",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chess-rook.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_number_8",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-number-8.svg"
+  },
+  {
+    "type": "bold",
+    "name": "garden_cart",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/garden-cart.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_number_4",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-number-4.svg"
+  },
+  {
+    "type": "bold",
+    "name": "windsock",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/windsock.svg"
+  },
+  {
+    "type": "bold",
+    "name": "explicit",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/explicit.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_e",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-e.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chart_donut",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chart-donut.svg"
+  },
+  {
+    "type": "bold",
+    "name": "dice_6",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/dice-6.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_z",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-z.svg"
+  },
+  {
+    "type": "bold",
+    "name": "alert_square",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/alert-square.svg"
+  },
+  {
+    "type": "bold",
+    "name": "trash",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/trash.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bolt",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bolt.svg"
+  },
+  {
+    "type": "bold",
+    "name": "transition_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/transition-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "badge_cc",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/badge-cc.svg"
+  },
+  {
+    "type": "bold",
+    "name": "ghost_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/ghost-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_e",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-e.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_autofit_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-autofit-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "magnet",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/magnet.svg"
+  },
+  {
+    "type": "bold",
+    "name": "badge_vr",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/badge-vr.svg"
+  },
+  {
+    "type": "bold",
+    "name": "globe",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/globe.svg"
+  },
+  {
+    "type": "bold",
+    "name": "accessible",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/accessible.svg"
+  },
+  {
+    "type": "bold",
+    "name": "box_multiple",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/box-multiple.svg"
+  },
+  {
+    "type": "bold",
+    "name": "ironing_3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/ironing-3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "badges",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/badges.svg"
+  },
+  {
+    "type": "bold",
+    "name": "droplets",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/droplets.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clipboard_x",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clipboard-x.svg"
+  },
+  {
+    "type": "bold",
+    "name": "toggle_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/toggle-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "quote",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/quote.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_big_left_line",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-big-left-line.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_e",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-e.svg"
+  },
+  {
+    "type": "bold",
+    "name": "laurel_wreath",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/laurel-wreath.svg"
+  },
+  {
+    "type": "bold",
+    "name": "replace",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/replace.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_number_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-number-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "play_card_5",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/play-card-5.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_u",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-u.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_big_right_line",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-big-right-line.svg"
+  },
+  {
+    "type": "bold",
+    "name": "archive",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/archive.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_z",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-z.svg"
+  },
+  {
+    "type": "bold",
+    "name": "lock",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/lock.svg"
+  },
+  {
+    "type": "bold",
+    "name": "code_circle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/code-circle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_move_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-move-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_b",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-b.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_number_3",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-number-3.svg"
+  },
+  {
+    "type": "bold",
+    "name": "flower",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/flower.svg"
+  },
+  {
+    "type": "bold",
+    "name": "play_card_10",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/play-card-10.svg"
+  },
+  {
+    "type": "bold",
+    "name": "info_square_rounded",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/info-square-rounded.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_plus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-plus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_p",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-p.svg"
+  },
+  {
+    "type": "bold",
+    "name": "swipe_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/swipe-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_navbar_expand",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-navbar-expand.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_bitbucket",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-bitbucket.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bounce_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bounce-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_chevron_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-chevron-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "fidget_spinner",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/fidget-spinner.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_number_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-number-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_lambda",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-lambda.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_x",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-x.svg"
+  },
+  {
+    "type": "bold",
+    "name": "caret_left_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/caret-left-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "zoom_code",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/zoom-code.svg"
+  },
+  {
+    "type": "bold",
+    "name": "palette",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/palette.svg"
+  },
+  {
+    "type": "bold",
+    "name": "crop_portrait",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/crop-portrait.svg"
+  },
+  {
+    "type": "bold",
+    "name": "radioactive",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/radioactive.svg"
+  },
+  {
+    "type": "bold",
+    "name": "capture",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/capture.svg"
+  },
+  {
+    "type": "bold",
+    "name": "trophy",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/trophy.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bandage",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bandage.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_d",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-d.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hourglass",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hourglass.svg"
+  },
+  {
+    "type": "bold",
+    "name": "badge_4k",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/badge-4k.svg"
+  },
+  {
+    "type": "bold",
+    "name": "ironing",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/ironing.svg"
+  },
+  {
+    "type": "bold",
+    "name": "brand_apple",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/brand-apple.svg"
+  },
+  {
+    "type": "bold",
+    "name": "fountain",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/fountain.svg"
+  },
+  {
+    "type": "bold",
+    "name": "poo",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/poo.svg"
+  },
+  {
+    "type": "bold",
+    "name": "sort_descending_shapes",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/sort-descending-shapes.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_f1",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-f1.svg"
+  },
+  {
+    "type": "bold",
+    "name": "flask_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/flask-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_x",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-x.svg"
+  },
+  {
+    "type": "bold",
+    "name": "layout_align_middle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/layout-align-middle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_letter_p",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-letter-p.svg"
+  },
+  {
+    "type": "bold",
+    "name": "device_speaker",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/device-speaker.svg"
+  },
+  {
+    "type": "bold",
+    "name": "mountain",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/mountain.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chess",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chess.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_dot",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-dot.svg"
+  },
+  {
+    "type": "bold",
+    "name": "file_rss",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/file-rss.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_v",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-v.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_o",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-o.svg"
+  },
+  {
+    "type": "bold",
+    "name": "section",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/section.svg"
+  },
+  {
+    "type": "bold",
+    "name": "dice_1",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/dice-1.svg"
+  },
+  {
+    "type": "bold",
+    "name": "coin_pound",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/coin-pound.svg"
+  },
+  {
+    "type": "bold",
+    "name": "swipe_down",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/swipe-down.svg"
+  },
+  {
+    "type": "bold",
+    "name": "cookie_man",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/cookie-man.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_chevrons_up",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-chevrons-up.svg"
+  },
+  {
+    "type": "bold",
+    "name": "battery_vertical_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/battery-vertical-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clock_hour_1",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clock-hour-1.svg"
+  },
+  {
+    "type": "bold",
+    "name": "circle_letter_i",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/circle-letter-i.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clipboard_typography",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clipboard-typography.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_badge_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-badge-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_chevron_left",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-chevron-left.svg"
+  },
+  {
+    "type": "bold",
+    "name": "umbrella",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/umbrella.svg"
+  },
+  {
+    "type": "bold",
+    "name": "triangle_square_circle",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/triangle-square-circle.svg"
+  },
+  {
+    "type": "bold",
+    "name": "map_pin",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/map-pin.svg"
+  },
+  {
+    "type": "bold",
+    "name": "bath",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/bath.svg"
+  },
+  {
+    "type": "bold",
+    "name": "badge_hd",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/badge-hd.svg"
+  },
+  {
+    "type": "bold",
+    "name": "flag_2",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/flag-2.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_minus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-minus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "chef_hat",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/chef-hat.svg"
+  },
+  {
+    "type": "bold",
+    "name": "clock_hour_9",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/clock-hour-9.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_letter_o",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-letter-o.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_big_up_lines",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-big-up-lines.svg"
+  },
+  {
+    "type": "bold",
+    "name": "play_card_j",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/play-card-j.svg"
+  },
+  {
+    "type": "bold",
+    "name": "hexagon_letter_b",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/hexagon-letter-b.svg"
+  },
+  {
+    "type": "bold",
+    "name": "sun_high",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/sun-high.svg"
+  },
+  {
+    "type": "bold",
+    "name": "square_rounded_arrow_right",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/square-rounded-arrow-right.svg"
+  },
+  {
+    "type": "bold",
+    "name": "arrow_left_rhombus",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/arrow-left-rhombus.svg"
+  },
+  {
+    "type": "bold",
+    "name": "dice",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/dice.svg"
+  },
+  {
+    "type": "bold",
+    "name": "heart",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/heart.svg"
+  },
+  {
+    "type": "bold",
+    "name": "presentation_analytics",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/presentation-analytics.svg"
+  },
+  {
+    "type": "bold",
+    "name": "engine",
+    "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/bold/engine.svg"
+  },
+  {
     "type": "file",
     "name": "chart_line",
     "url": "https://raw.githubusercontent.com/mrcutex/iconvis/main/icons/outline/chart-line.svg"
