@@ -48,15 +48,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}  
 
-      - name: Delete Unwanted Files
-        run: |
-          find icons -type f -name "*.svg" -delete
-          find . -maxdepth 1 -type f -name "*.png" -o -name "*.zip" -delete
-
-      - name: Commit Changes
-        run: |
-         git config --global user.name "github-actions"
-         git config --global user.email "actions@github.com"
-         git add .
-         git diff --cached --quiet || git commit -m "Deleted unnecessary .svg, .png, and .zip files"
-         git push origin HEAD:${{ github.ref_name }}
+      
