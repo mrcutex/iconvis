@@ -1,2 +1,2 @@
 # iconvis
-API for for Iconvis android app
+API for Iconvis android app
